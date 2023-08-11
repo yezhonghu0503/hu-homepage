@@ -1,0 +1,12 @@
+@import url(https://fonts.googleapis.com/css?family=VT323);
+
+body {
+  background: #383838;
+  color: #00dd00;
+  font-size: 64.5%;
+  font-size: 1.4em;
+  font-family: 'VT323', Courier;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
